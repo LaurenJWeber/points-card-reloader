@@ -1,0 +1,8 @@
+{
+    "firefox_binary_path": "/path/to/executable/firefox",
+    "gecko_driver_path": "path/to/executable/geckodriver",
+    "log_path": "path/to/your/log/reload-points-log.txt",
+    "headless_mode": true,
+    "application_name": "optimum-card",
+    "user_name": "your-email@domain.test"
+}
